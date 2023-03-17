@@ -1,10 +1,11 @@
 
-# Projeto Labook
+# Projeto LabEddit
 
-O Labook é uma rede social com o objetivo de promover a conexão e interação entre pessoas. 
+O LabEddit é uma rede social com o objetivo de promover a conexão e interação entre pessoas. 
 
 Quem se cadastrar no aplicativo poderá criar e curtir publicações.
 ## Documentação da API
+[Postman](https://documenter.getpostman.com/view/24460811/2s93JzKfno)
 
 #### Cadastra um novo usuário
 
@@ -105,8 +106,3 @@ Caso dê um dislike em um post que tenha dado like, o dislike sobrescreve o like
 | `id`      | `string` | **Obrigatório**. O ID do item que você quer | 
 `body`  | `object` | `like (boolean)`  |
 
-
-## Banco de Dados
-
-![Diagram](https://user-images.githubusercontent.com/29845719/216036534-2b3dfb48-7782-411a-bffd-36245b78594e.png)
-https://dbdiagram.io/d/63d16443296d97641d7c1ae1
