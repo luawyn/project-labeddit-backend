@@ -1,11 +1,14 @@
 
-# Projeto LabEddit
+# Projeto LabEddit (Back-End)
 
 O LabEddit é uma rede social com o objetivo de promover a conexão e interação entre pessoas. 
 
 Quem se cadastrar no aplicativo poderá criar e curtir publicações.
 ## Documentação da API
 [Postman](https://documenter.getpostman.com/view/24460811/2s93JzKfno)
+
+## LabEddit (Front-End)
+[Repositório](https://github.com/luawyn/project-labeddit-frontend)
 
 #### Cadastra um novo usuário
 
