@@ -56,7 +56,6 @@ export class PostDatabase extends BaseDatabase {
         "posts.likes",
         "posts.dislikes",
         "posts.created_at",
-        "posts.updated_at",
         "users.name AS creator_name"
       )
       .join("users", "posts.creator_id", "=", "users.id")
